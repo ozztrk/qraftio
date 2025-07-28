@@ -690,8 +690,3 @@ This expanded README aims to be a living document. It should be regularly update
 
 ## 15. License
 
-Specify the project license (e.g., MIT, GPL).
-
----
-
-*This README aims to be a living document. It should be regularly updated as development progresses, decisions are made, and new features are planned.*
